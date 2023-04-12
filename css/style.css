@@ -1,0 +1,22 @@
+body{
+    background: rgb(241, 235, 235);
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(6, 65, 65);
+}
+
+.success , .error {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding: 5px;
+   margin: 10px; 
+}
+
+.success{
+    background: rgb(53, 119, 53);
+}
+
+.error{
+    background: rgb(212, 53, 53);
+}
